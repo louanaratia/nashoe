@@ -112,7 +112,7 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Formal+Leather+1" alt="Formal Leather 1">
+      <img src="IMG_20250720_022506_553.jpg" alt="Formal Leather 1">
       <h3>Formal Leather Shoe</h3>
       <p>₱2,899</p>
       <button>Add to Cart</button>
@@ -151,16 +151,16 @@
 
   <section class="about" id="about">
     <h2>About Us</h2>
-    <p>Sole Squad was built for sneakerheads and comfort seekers. We combine style, comfort, and value in every pair.</p>
+    <p>Ay na shoes was built for sneakerheads and comfort seekers. We combine style, comfort, and value in every pair.</p>
   </section>
 
   <section class="contact" id="contact">
     <h2>Contact Us</h2>
-    <p>Email: contact@solesquad.com<br>Instagram: @solesquad.ph</p>
+    <p>Email: contact@aynashoes.com<br>Instagram: @aynashoes.ph</p>
   </section>
 
   <footer>
-    &copy; 2025 Sole Squad Shoes. All rights reserved.
+    &copy; 2025 Ay na Shoes. All rights reserved.
   </footer>
 
 </body>
