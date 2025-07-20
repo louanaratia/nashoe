@@ -142,7 +142,7 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Limited+Edition"alt="Nike Zoom Kobe 6 Protro">
+      <img src="https://via.placeholder.com/250x200?text=Limited+Edition" alt="Nike Zoom Kobe 6 Protro">
       <h3>Nike Zoom Kobe 6 Protro</h3>
       <p>₱3,499</p>
       <button>Add to Cart</button>
