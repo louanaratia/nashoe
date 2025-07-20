@@ -124,20 +124,20 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Canvas+Shoe+1" alt="Canvas Shoe 1">
-      <h3>Canvas Shoe</h3>
+      <img src="https://via.placeholder.com/250x200?text=Canvas+Shoe+1" alt="Men's Nike Low Retro">
+      <h3>Men's Nike Low Retro</h3>
       <p>₱1,299</p>
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Boot+1" alt="Boot 1">
-      <h3>Urban Boot</h3>
+      <img src="https://via.placeholder.com/250x200?text=Boot+1" alt="Nike Precision 6">
+      <h3>Nike Precision 6</h3>
       <p>₱3,199</p>
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Slip-on+1" alt="Slip-on 1">
-      <h3>Slip-on Comfort</h3>
+      <img src="https://via.placeholder.com/250x200?text=Slip-on+1" alt="Nike Ja 1">
+      <h3>Nike Ja 1</h3>
       <p>₱999</p>
       <button>Add to Cart</button>
     </div>
