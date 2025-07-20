@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ay na shoes</title>
+  <title>Ay na shoe</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -82,8 +82,8 @@
 <body>
 
   <header>
-    <h1>Ay na shoes</h1>
-    <p>Nashoes — Find Your Perfect Pair</p>
+    <h1>Ay na shoe</h1>
+    <p>Nashoe — Find Your Perfect Pair</p>
   </header>
 
   <nav>
@@ -151,16 +151,16 @@
 
   <section class="about" id="about">
     <h2>About Us</h2>
-    <p>Ay na shoes was built for sneakerheads and comfort seekers. We combine style, comfort, and value in every pair.</p>
+    <p>Ay na shoe was built for sneakerheads and comfort seekers. We combine style, comfort, and value in every pair.</p>
   </section>
 
   <section class="contact" id="contact">
     <h2>Contact Us</h2>
-    <p>Email: contact@aynashoes.com<br>Instagram: @aynashoes.ph</p>
+    <p>Email: contact@aynashoe.com<br>Instagram: @aynashoe.ph</p>
   </section>
 
   <footer>
-    &copy; 2025 Ay na Shoes. All rights reserved.
+    &copy; 2025 Ay na Shoe. All rights reserved.
   </footer>
 
 </body>
