@@ -118,8 +118,8 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Trainer+1" alt="Trainer 1">
-      <h3>Trainer</h3>
+      <img src="IMG_20250720_203915_600.jpg" alt="Mens Nike Initiator">
+      <h3>Mens Nike Initiator</h3>
       <p>₱2,499</p>
       <button>Add to Cart</button>
     </div>
