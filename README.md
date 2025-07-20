@@ -82,8 +82,8 @@
 <body>
 
   <header>
-    <h1>Sole Squad</h1>
-    <p>Step in Style — Find Your Perfect Pair</p>
+    <h1>Ay na shoes</h1>
+    <p>Nashoes — Find Your Perfect Pair</p>
   </header>
 
   <nav>
@@ -94,7 +94,7 @@
   </nav>
 
   <section class="intro" id="home">
-    <h2>Welcome to Sole Squad</h2>
+    <h2>Welcome to Ay na shoes</h2>
     <p>From streetwear to sport-ready, we've got the perfect shoes for you.</p>
   </section>
 
@@ -106,7 +106,7 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Running+Shoe+1" alt="Running Shoe 1">
+      <img src="IMG_20250720_022304_021.jpg" alt="Running Shoe 1">
       <h3>Running Shoe</h3>
       <p>₱2,299</p>
       <button>Add to Cart</button>
