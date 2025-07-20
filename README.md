@@ -124,25 +124,25 @@
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Canvas+Shoe+1" alt="Men's Nike Low Retro">
+      <img src="IMG_20250720_204907_744.jpg" alt="Men's Nike Low Retro">
       <h3>Men's Nike Low Retro</h3>
       <p>₱1,299</p>
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Boot+1" alt="Nike Precision 6">
+      <img src="IMG_20250720_204900_802.jpg" alt="Nike Precision 6">
       <h3>Nike Precision 6</h3>
       <p>₱3,199</p>
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Slip-on+1" alt="Nike Ja 1">
+      <img src="IMG_20250720_204858_207.jpg" alt="Nike Ja 1">
       <h3>Nike Ja 1</h3>
       <p>₱999</p>
       <button>Add to Cart</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x200?text=Limited+Edition" alt="Nike Zoom Kobe 6 Protro">
+      <img src="IMG_20250720_204905_241.jpg" alt="Nike Zoom Kobe 6 Protro">
       <h3>Nike Zoom Kobe 6 Protro</h3>
       <p>₱3,499</p>
       <button>Add to Cart</button>
