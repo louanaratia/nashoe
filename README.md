@@ -94,7 +94,7 @@
   </nav>
 
   <section class="intro" id="home">
-    <h2>Welcome to Ay na shoes</h2>
+    <h2>Welcome to Ay na shoe</h2>
     <p>From streetwear to sport-ready, we've got the perfect shoes for you.</p>
   </section>
 
